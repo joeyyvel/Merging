@@ -16,3 +16,12 @@ body{
     justify-content: center;
     cursor: pointer;
 }
+#square{
+    border: 2px solid blue;
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
