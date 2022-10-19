@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#circle{
+    border: 2px solid blue;
+    height: 120px;
+    width: 120px;
+    background-color: orange;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
