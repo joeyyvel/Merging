@@ -5,4 +5,3 @@ function circle(){
 function square(){
     alert('i am square!');
 }
-
