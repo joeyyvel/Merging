@@ -25,3 +25,9 @@ body{
     align-items: center;
     display: flex;
 }
+#branch{
+    border: 2px solid blue;
+    width: 120px;
+    height: auto;
+    background-color: orange;
+}
