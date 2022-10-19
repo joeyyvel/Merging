@@ -7,5 +7,9 @@ function square(){
 }
 
 function ellipse(){
-    alert("i am ellipse!!!");
+    alert("i am ellipse!!!");    
+}
+
+function para(){
+    alert("i am the para!!!");
 }
