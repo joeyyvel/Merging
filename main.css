@@ -25,3 +25,14 @@ body{
     align-items: center;
     display: flex;
 }
+#ellipse{
+    border: 2px solid blue;
+    height: 50px;
+    width: 150px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: rgb(80, 184, 202);
+    border-radius: 5px 10px 15px 20px;
+    box-shadow: 40px 15px 15px;
+}
