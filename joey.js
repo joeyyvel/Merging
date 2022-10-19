@@ -13,3 +13,7 @@ function ellipse(){
 function para(){
     alert("i am the para!!!");
 }
+
+function para2(){
+    alert("i am the paragraph two!");
+}
